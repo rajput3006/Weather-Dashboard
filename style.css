@@ -12,7 +12,7 @@ body{
  display:flex;
  justify-content: center;
  align-items:center;
- background-image: url("/images/clouds.jpg");
+ background-image: url("clouds.jpg");
  background-repeat: no-repeat;
  background-size: cover;
 
